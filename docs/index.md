@@ -19,3 +19,9 @@ Um caso de uso é
         ...       # Other markdown pages, images and other files.
 
 ## Diagrama de Casos de Uso - UML
+
+## Especificação Suplementar
+
+### Requisitos Funcionais
+
+## Requisitos Não Funcionais
