@@ -1,6 +1,11 @@
 site_name: Software de Notas Estudantis
-site_url: https://sistema-de-notas-fepi.com/
+site_url: https://software-de-notas-estudantis.com/
 nav: 
 - Sobre: about.md
 - Modelagem: index.md
 - Protótipo: prototype.md
+
+theme:
+ name: material
+ palette:
+   primary: deep purple
