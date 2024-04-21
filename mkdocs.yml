@@ -1,11 +1,20 @@
 site_name: Software de Notas Estudantis
 site_url: https://software-de-notas-estudantis.com/
 nav: 
-- Sobre: about.md
-- Modelagem: index.md
+- Sobre: index.md
+- Modelagem: casosdeuso.md
 - Protótipo: prototype.md
 
 theme:
  name: material
  palette:
-   primary: deep purple
+   primary: indigo
+   secondary: amber
+   accent: amber
+ logo: assets/fepilogoph3.jpeg
+ favicon: assets/fepilogoph3.jpeg
+ icon: assets/fepilogoph3.jpeg
+ top: assets/fepilogoph3.jpeg
+ menu: assets/fepilogoph3.jpeg
+ extra:
+   homepage: assets/fepilogoph3.jpeg

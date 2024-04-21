@@ -1,27 +1,22 @@
-# Casos de Uso
+# O Projeto
 
 ## Introdução
 
-Os diagramas de casos de uso são um técnica de modelagem utilizada principalmente na engenharia de 
-software para descrever as interações entre um sistema e seus usuários ou outros sistemas, coletando, analisando e especificando suas funções (funcionais ou não).
-Fazem parte da UML (Unified Modelling Language), uma linguagem que define uma série de artefatos e diagramas que nos ajudam na tarefa de modelar e documentar os sistemas orientados a objetos que desenvolvemos.
+A proposta do projeto é facilitar o manuseio das notas bimestrais e finais pelos alunos à medida que elas
+são lançadas, visto que muitos apresentam dificuldade para calcular e manipular as notas.
 
-## Metodologia
+## Problemas
 
-Como explicado anteriormente, o artefato utilizado foi o diagrama de casos de uso, integrante da UML. Utilizamos a abordagem padrão para sua criação, composta pelos atores, que representam os usuários e os casos de uso, que representam os requisitos funcionais da aplicação, ou seja, descrevem as ações e interações que o usuário pode realizar dentro do sistema. O software de modelagem utilizado foi o LucidChart. 
+Dentre os problemas citados, temos:
 
-## Diagrama de Casos de Uso - UML
+* Sempre quando as notas do 1º bimestre são divulgadas, os alunos querem calcular a nota mínima necessária para ser aprovado.
 
-![Screenshot](img/diagramaph.png)
+* Sempre quando os alunos já sabem as notas do 1º e 2º bimestres, eles querem calcular a nota final e saber se foram aprovados ou ficaram de exames.
 
-## Glossário
+* Sempre quando as notas finais são divulgadas: - os alunos que ficaram de exame de final querem calcular a nota mínima necessária para tirar no exame final e ser aprovado.
 
-| Nome | Função | Elemento
-| ---- | ---- | ---- |
-| Ator | Bonecos palito que representam os usuários dos sistema. | ![Screenshot](img/actor.PNG) |
+## Solicitação
 
-## Especificação Suplementar
-
-### Requisitos Funcionais
-
-### Requisitos Não Funcionais
+Foi apontado que deveríamos modelar todo o software, incluindo seus requisitos funcionais e não funcionais, um diagrama de casos de uso
+(especificando cada um), e por fim, desenvolver um protótipo visual funcional. Dessa forma, decidimos documentar aqui todo o conteúdo produzido
+durante o projeto.
