@@ -41,7 +41,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Aluno Usuário |
 | **Prioridade** | Essencial |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | Acessar o aplicativo (cadastro ou login), clicar na disciplina e inserir as notas para cálculo. |
 | **Pós-condições** | Nota mínima para ser aprovado no bimestre |
 
 *Tabela 3: Calcular a nota final com as notas do 1° e 2° bimestre*
@@ -52,7 +52,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Aluno Usuário |
 | **Prioridade** | Essencial |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app; Notas do 1° e 2° bimestre estarem lançadas |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | Acessar o aplicativo (cadastro ou login), clicar na disciplina e inserir as notas para cálculo. |
 | **Pós-condições** | Nota final do período |
 
 *Tabela 4: Calcular a nota mínima necessária para ser aprovado caso o aluno tenha ficado de exame final*
@@ -63,7 +63,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Aluno Usuário |
 | **Prioridade** | Essencial |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app; Notas do 1° e 2° bimestre estarem lançadas; Nota final estar lançada |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | Acessar o aplicativo (cadastro ou login), clicar na disciplina e inserir as notas para cálculo. |
 | **Pós-condições** | Nota mínima para ser aprovado no período |
 
 *Tabela 5: Salvar as notas de cada disciplina*
@@ -74,7 +74,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Aluno Usuário |
 | **Prioridade** | Média |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app; Notas individuais de cada disciplina |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | À definir. |
 | **Pós-condições** | Notas estarem salvas e de fácil acesso |
 
 *Tabela 6: Ver o status das disciplinas (cursando, aprovado, reprovado, ficou exame final)*
@@ -85,7 +85,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Aluno Usuário |
 | **Prioridade** | Baixa |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app; |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | Acessar o aplicativo (cadastro ou login). |
 | **Pós-condições** | Estar ciente de seu estado atual |
 
 *Tabela 7: Ver notas das disciplinas já cadastradas*
@@ -96,7 +96,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Aluno Usuário |
 | **Prioridade** | Essencial |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app; Nota estar registrada no sistema |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | Acessar o aplicativo (cadastro ou login). |
 | **Pós-condições** | Estar ciente de sua nota |
 
 *Tabela 8: Alterar notas já cadastradas*
@@ -107,7 +107,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Funcionário da Universidade |
 | **Prioridade** | Baixa |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app; Nota estar cadastrada |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | À definir. |
 | **Pós-condições** | Nota ser alterada conforme a necessidade |
 
 *Tabela 9: Excluir uma disciplina cadastrada*
@@ -118,7 +118,7 @@ Nessa seção estão declaradas as especificações dos casos de uso (tabela 2 a
 | **Ator** | Funcionário da Universidade |
 | **Prioridade** | Baixa |
 | **Pré-condições** | Estar logado; Acesso à internet; Acesso ao app; Disciplina estar cadastrada no sistema |
-| **Fluxo Principal** | X |
+| **Fluxo Principal** | Acessar o aplicativo (cadastro ou login), clicar no ícone de lixeira acima da disciplina e confirmar exclusão. |
 | **Pós-condições** | Disciplina ser excluída dos registros |
 
 ## Especificação Suplementar
