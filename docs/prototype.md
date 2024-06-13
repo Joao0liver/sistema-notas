@@ -12,7 +12,7 @@ e compartilhadamente em uma arquitetura de prototipagem.
 
 [Confira o protótipo clicando aqui.](https://www.figma.com/proto/7FlCRGlrXPJ8iF4eoBvFVC/Interface?node-id=10-213&mode=design&t=SQmobYMtsOu4veR4-1)
 
-# Screenshots
+## Screenshots
 
 ![Screenshot](img/prototype/proto1.PNG)
 ![Screenshot](img/prototype/proto3.PNG)

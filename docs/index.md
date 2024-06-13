@@ -20,3 +20,10 @@ Dentre os problemas citados, temos:
 Foi apontado que deveríamos modelar todo o software, incluindo seus requisitos funcionais e não funcionais, um diagrama de casos de uso
 (especificando cada um), e por fim, desenvolver um protótipo visual funcional. Dessa forma, decidimos documentar aqui todo o conteúdo produzido
 durante o projeto.
+
+## Equipe
+
+João Augusto de Oliveira,
+Carlos Eduardo,
+Dâmalla,
+Gustavo Pereira;

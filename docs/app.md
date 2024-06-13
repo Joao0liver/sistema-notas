@@ -10,7 +10,11 @@ O aplicativo foi desenvolvido através do software MIT App Inventor, apresentand
 
 ## Acesso ao Aplicativo
 
-# Screenshots
+![Screenshot](assets/fepilogoph.png)
+
+[Baixe o app clicando AQUI!](./apk/app_notasv06.24B.apk){:download="FEPI Notas"}
+
+## Screenshots
 
 ![Screenshot](img/app/menu_app.PNG)
 ![Screenshot](img/app/login_app.PNG)
